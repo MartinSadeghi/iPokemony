@@ -106,6 +106,7 @@
 				6B5316BB2A6E927400040AC4 /* Extension */,
 				6B5316BA2A69492C00040AC4 /* Application */,
 				6B5316B92A69490C00040AC4 /* Storyboard */,
+				6B5316C02A6FE18D00040AC4 /* Constant */,
 				6B53168A2A6948CA00040AC4 /* ViewController.swift */,
 				6B53168C2A6948CA00040AC4 /* Main.storyboard */,
 				6B5316922A6948CB00040AC4 /* Assets.xcassets */,
@@ -155,6 +156,13 @@
 				6B5316BE2A6E92A800040AC4 /* UIImageView + Extension.swift */,
 			);
 			path = Extension;
+			sourceTree = "<group>";
+		};
+		6B5316C02A6FE18D00040AC4 /* Constant */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Constant;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
