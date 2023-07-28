@@ -103,6 +103,7 @@
 		6B5316852A6948CA00040AC4 /* iPokemony */ = {
 			isa = PBXGroup;
 			children = (
+				6B5316C42A73C9FE00040AC4 /* Helper */,
 				6B5316C22A726C9B00040AC4 /* Screen */,
 				6B5316C12A71C39400040AC4 /* Utility */,
 				6B5316BB2A6E927400040AC4 /* Extension */,
@@ -187,6 +188,13 @@
 			children = (
 			);
 			path = Pokemon;
+			sourceTree = "<group>";
+		};
+		6B5316C42A73C9FE00040AC4 /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Helper;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
