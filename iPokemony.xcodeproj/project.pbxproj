@@ -113,7 +113,6 @@
 				6B5316B92A69490C00040AC4 /* Storyboard */,
 				6B5316C02A6FE18D00040AC4 /* Constant */,
 				6B53168A2A6948CA00040AC4 /* ViewController.swift */,
-				6B53168C2A6948CA00040AC4 /* Main.storyboard */,
 				6B5316922A6948CB00040AC4 /* Assets.xcassets */,
 				6B5316972A6948CB00040AC4 /* Info.plist */,
 				6B53168F2A6948CA00040AC4 /* iPokemony.xcdatamodeld */,
@@ -141,6 +140,7 @@
 		6B5316B92A69490C00040AC4 /* Storyboard */ = {
 			isa = PBXGroup;
 			children = (
+				6B53168C2A6948CA00040AC4 /* Main.storyboard */,
 				6B5316942A6948CB00040AC4 /* LaunchScreen.storyboard */,
 			);
 			path = Storyboard;
