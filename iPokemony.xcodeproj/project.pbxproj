@@ -190,6 +190,7 @@
 		6B5316C32A726CB100040AC4 /* Pokemon */ = {
 			isa = PBXGroup;
 			children = (
+				6B5316C82A7BACF500040AC4 /* Model */,
 			);
 			path = Pokemon;
 			sourceTree = "<group>";
@@ -206,6 +207,13 @@
 			children = (
 			);
 			path = Favorite;
+			sourceTree = "<group>";
+		};
+		6B5316C82A7BACF500040AC4 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
