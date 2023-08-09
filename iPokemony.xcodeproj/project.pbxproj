@@ -207,6 +207,7 @@
 		6B5316C52A76873C00040AC4 /* Favorite */ = {
 			isa = PBXGroup;
 			children = (
+				6B57279B2A83E57E00F81CC1 /* View */,
 				6B57279A2A813BF400F81CC1 /* Model */,
 			);
 			path = Favorite;
@@ -238,6 +239,13 @@
 			children = (
 			);
 			path = Model;
+			sourceTree = "<group>";
+		};
+		6B57279B2A83E57E00F81CC1 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
