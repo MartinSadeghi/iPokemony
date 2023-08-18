@@ -105,14 +105,14 @@
 		6B5316852A6948CA00040AC4 /* iPokemony */ = {
 			isa = PBXGroup;
 			children = (
+				6B57279D2A8FA59300F81CC1 /* ViewController */,
+				6B5316BA2A69492C00040AC4 /* Application */,
+				6B5316B92A69490C00040AC4 /* Storyboard */,
 				6B5316C42A73C9FE00040AC4 /* Helper */,
 				6B5316C22A726C9B00040AC4 /* Screen */,
 				6B5316C12A71C39400040AC4 /* Utility */,
 				6B5316BB2A6E927400040AC4 /* Extension */,
-				6B5316BA2A69492C00040AC4 /* Application */,
-				6B5316B92A69490C00040AC4 /* Storyboard */,
 				6B5316C02A6FE18D00040AC4 /* Constant */,
-				6B53168A2A6948CA00040AC4 /* ViewController.swift */,
 				6B5316922A6948CB00040AC4 /* Assets.xcassets */,
 				6B5316972A6948CB00040AC4 /* Info.plist */,
 				6B53168F2A6948CA00040AC4 /* iPokemony.xcdatamodeld */,
@@ -254,6 +254,14 @@
 			children = (
 			);
 			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		6B57279D2A8FA59300F81CC1 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				6B53168A2A6948CA00040AC4 /* ViewController.swift */,
+			);
+			path = ViewController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
